@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Kerry Knepley and this account is linked to my school email ksknepley@my.waketech.edu. My Github account is an assignment for my CTI-110 Web and Programming class. This is my main repository to save my Github code. To clone this repository onto my local machine, I downloaded Github Desktop, selected the "+" icon, selected "Clone a repository," and chose this repository: KerrySkye.github.io. I then chose to clone the repository into my WakeTech/CTI-110/GitHub folder.
 
 <!--
 **KerrySkye/KerrySkye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
